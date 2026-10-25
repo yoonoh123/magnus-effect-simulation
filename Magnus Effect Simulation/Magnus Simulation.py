@@ -106,7 +106,7 @@ def simulate(omega):
 
 
 #range of omega values
-omega_values = np.linspace(100,500,51) # 51 evenly spaced values from 0 to 150 rad/s
+omega_values = np.linspace(100,500,51) # 51 evenly spaced values from 100 to 500 rad/s
 displacements = []
 
 
