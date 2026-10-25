@@ -31,10 +31,13 @@ The script prints the Reynolds number check for different speeds and the resulti
 - The model is simplified: no air currents, no table, net, or interaction
 
 ## Reference
- "Air Density, Specific Weight, and Thermal Expansion Coefficients at Varying Temperatures and Pressures." The Engineering ToolBox, www.engineeringtoolbox.com/air-density-specific-weight-d_600.html?vA=25&units=C#. Accessed 26 Sept. 2026.
- "Air Viscosity: Dynamic and Kinematic Viscosity at Various Temperatures and Pressures." The Engineering ToolBox, www.engineeringtoolbox.com/air-absolute-kinematic-viscosity-d_601.html. Accessed 26 Sept. 2026.
- Ito, Kenichi, and Kei Kamijima. "Estimation of Aerodynamic Properties of a Spinning Table Tennis Ball Using Computational Fluid Dynamics Analysis." Transaction of the Japan Society for Simulation Technology, vol. 17, no. 1, 2025, pp. 25-31, doi.org/10.11308/tjsst.17.25. 
- "The International Table Tennis Federation Statutes 2026." International Table Tennis Federation, 54th ed., 1 Jan. 2026, documents.ittf.sport/sites/default/files/public/2026-02/2026_Statutes_v1_consolidated_clean.pdf. Accessed 26 Sept. 2026.
+"Air Density, Specific Weight, and Thermal Expansion Coefficients at Varying Temperatures and Pressures." The Engineering ToolBox, www.engineeringtoolbox.com/air-density-specific-weight-d_600.html?vA=25&units=C#. Accessed 26 Sept. 2026.
+
+"Air Viscosity: Dynamic and Kinematic Viscosity at Various Temperatures and Pressures." The Engineering ToolBox, www.engineeringtoolbox.com/air-absolute-kinematic-viscosity-d_601.html. Accessed 26 Sept. 2026.
+
+Ito, Kenichi, and Kei Kamijima. "Estimation of Aerodynamic Properties of a Spinning Table Tennis Ball Using Computational Fluid Dynamics Analysis." Transaction of the Japan Society for Simulation Technology, vol. 17, no. 1, 2025, pp. 25-31, doi.org/10.11308/tjsst.17.25. 
+
+"The International Table Tennis Federation Statutes 2026." International Table Tennis Federation, 54th ed., 1 Jan. 2026, documents.ittf.sport/sites/default/files/public/2026-02/2026_Statutes_v1_consolidated_clean.pdf. Accessed 26 Sept. 2026.
 
 
 ## Context
